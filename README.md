@@ -15,8 +15,8 @@ I mainly use coding and GenAI tools to support business workflows and data-relat
 ---
 
 ## 🛠️ Tech Stack
-- **Languages:** Python (basic)
-- **Tools:** Git, GitHub, GenAI tools (ChatGPT, etc.)
+- **Languages:** Python
+- **Tools:** Git, GitHub, GenAI tools
 - **Focus Areas:** Data Analysis, Automation, Workflow Optimization
 
 ---
